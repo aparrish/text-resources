@@ -39,7 +39,7 @@
 
 ### Poetics and Text Analysis
 
-* [Listen and Relate: Towards a Reading of Jackson Mac Low](http://epc.buffalo.edu/authors/hartley/maclow/maclow.html)
+* [Listen and Relate: Towards a Reading of Jackson Mac Low](http://writing.upenn.edu/epc/authors/hartley/maclow/maclow.html)
 * Loss Pequeno Glazier, [Grep Works](http://epc.buffalo.edu/authors/glazier/dp/appendices.html "http://epc.buffalo.edu/authors/glazier/dp/appendices.html")
 * Alan Sondheim, [Julu](http://www.runme.org/project/+sondheimjulu/ "http://www.runme.org/project/+sondheimjulu/")
 * Nick Montfort, [ppg256](http://nickm.com/poems/ppg256.html "http://nickm.com/poems/ppg256.html"), [others](http://nickm.com/poems/)
